@@ -1,0 +1,9 @@
+name: info-vis
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - jupyter
+
