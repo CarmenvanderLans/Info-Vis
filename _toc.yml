@@ -5,4 +5,4 @@
 format: jb-book
 root: docs/home
 chapters:
-  - file: docs/data_story_eindversie
+  - file: docs/data_story_goede
