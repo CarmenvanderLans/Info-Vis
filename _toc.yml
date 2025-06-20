@@ -5,5 +5,5 @@
 format: jb-book
 root: docs/home
 chapters:
-  - file: docs/data_story_draft
-  - file: docs/data_story_goede
+  - file: docs/data_story_goede_hersteld
+
