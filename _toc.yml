@@ -1,9 +1,1 @@
-# Table of contents
-# Learn more at https://jupyterbook.org/customize/toc.html
-# trigger rebuild
-
-format: jb-book
-root: docs/home
-chapters:
-  - file: docs/data_story_goede_hersteld
-
+op
